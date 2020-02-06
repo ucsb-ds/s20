@@ -1,0 +1,66 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
+
+url: https://ucsb-ds.github.io # the base hostname & protocol for your site
+baseurl: "/s20"  # the subpath of your site "/" for main, "/w19" for instance
+
+title: "UCSB DS2"
+course: "DS2"
+github_url: https://github.com/ucsb-ds/s20
+
+suppress_footer: true # hide the footer
+
+kramdown:
+  parse_block_html: false
+
+exclude: ['vendor', 'setup.sh', 'jekyll.sh']
+include:
+  - _pages
+
+timezone: America/Los_Angeles
+
+collections:
+  tutorials:
+    output: true
+    permalink: /tutorials/:path/
+
+  topics:
+    output: true
+    permalink: /topics/:path/
+  textbooks:
+    output: true
+    permalink: /textbooks/:path/
+  resources:
+    output: true
+    permalink: /resources/:path/
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: default
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: instructor
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: default
+    values:
+layout: default
