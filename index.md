@@ -15,7 +15,7 @@ This site is currently under construction and will be updated with more informat
 
 **Instructors:** Professors Kate Kharitonova (CS) and Alex Franks (PSTAT)
 
-**Prerequisites:** PSTAT 120A, Math 4A, and knowledge of Python (at a minimum equivalent of CS 8, INT5, PSTAT 10).
+**Prerequisites:** PSTAT 120A, Math 4A, and knowledge of Python (at a minimum equivalent of CS 8, INT 5, PSTAT 10).
 
 **Catalog description:** Overview and use of data science tools in Python for data retrieval, analysis, visualization, reproducible research and automated report generation. Case studies will illustrate practical use of these tools.  This new course will focus on concepts that are relevant for data science by using some of the popular software tools in this area. Doing data science is more than using isolated methods. Creatively using a collection of concepts and domain knowledge is emphasized to clean, transform, analyze, and present data. Concepts in data ethics and privacy will also be discussed. Case studies will illustrate real usage scenarios.
 
@@ -47,7 +47,7 @@ Because admission to the course is contingent on various factors, including the 
 - Unlike INT 5 (which is open to all and is an intro course), this course is considered an "intermediate" data science course. As such, some experience with Python and some introductory probability are required.
 - Unlike PSTAT 10, this course will be taught using Python but this is *not* a programming course.  There will be a significant focus on statistical and data science concepts including exploratory analysis, uncertainty and ethics.
 - This course is largely meant as a data-science focused complement to PSTAT 120B.  
-- The material in this course will be significantly *less* advanced than the content in PSTAT 134.  If you have already taken courses beyond PSTAT 126, this course is _not_ for you.
+- The material in this course will be significantly *less* advanced than the content in PSTAT 134 and INT 15.  If you have already taken these courses or courses beyond PSTAT 126, this course is _not_ for you.
 - An emphasis will be placed on learning from each other. You will be expected to pick up the material quickly and do a fair bit of self-learning.  As part of our experimental approach, the course will be co-taught by professors from CS and PSTAT.  
 
 
