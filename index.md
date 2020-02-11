@@ -30,7 +30,7 @@ This site is currently under construction and will be updated with more informat
 - Interactive visualization in the web browser.
 
 Learning by doing will require software documentation, experimenting by trial-and-error, and lots of debugging. 
-We are looking for self-motivated students with diverse interests in the data science.
+We are looking for self-motivated students with diverse interests in data science.
 
 
 ### Enrollment for this course will be limited, and add-codes will be given only after reviewing students' applications.
@@ -42,9 +42,13 @@ We are looking for self-motivated students with diverse interests in the data sc
 
 Because admission to the course is contingent on various factors, including the number of applications, each undergraduate applicant should enroll in a "back-up" course that can be dropped if admitted to this course (which you would still be happy to take if you haven't been admitted).
 
-**How is this course different that PSTAT 134?**
+**Where does this data science course fit in with the existing courses?**
 
-This is experimental course that will be less advanced than the content in PSTAT 134.  An emphasis will be placed on learning from each other: unlike 134, this course will be co-taught by professors from CS and PSTAT.  If you have already taken PSTAT 134 or any PSTAT courses beyond 120A, this course will be too remedial for you.
+- Unlike INT 5 (which is open to all and is an intro course), this course is considered an "intermediate" data science course. As such, some experience with Python and some introductory probability are required.
+- Unlike PSTAT 10, this course will be taught using Python but this is *not* a programming course.  There will be a significant focus on statistical and data science concepts including exploratory analysis, uncertainty and ethics.
+- This course is largely meant as a data-science focused complement to PSTAT 120B.  
+- The material in this course will be significantly *less* advanced than the content in PSTAT 134.  If you have already taken courses beyond PSTAT 126, this course is _not_ for you.
+- An emphasis will be placed on learning from each other. You will be expected to pick up the material quickly and do a fair bit of self-learning.  As part of our experimental approach, the course will be co-taught by professors from CS and PSTAT.  
 
 
 Link to this page: <https://ucsb-ds.github.io/s20>
