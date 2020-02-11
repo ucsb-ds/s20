@@ -1,8 +1,8 @@
 ---
-title: Spring 2020: UCSB Data Science course
+title: Spring 2020: UCSB Data Science Applications and Analysis
 ---
 
-# Spring 2020: UCSB  Data Science Principles & Techniques
+# Spring 2020: UCSB (CS 190D / PSTAT 195) Data Science Applications and Analysis
 
 
 In this course, we will explore the data science lifecycle: question formulation, data collection & cleaning, exploratory data analysis & visualization, statistical inference and prediction, and decision-making.
@@ -15,7 +15,7 @@ This site is currently under construction and will be updated with more informat
 
 **Instructors:** Professors Kate Kharitonova (CS) and Alex Franks (PSTAT)
 
-**Prerequisites:** PSTAT 120A, Math 4A, and knowledge of Python (at a minimum, equivalent of CS 8, INT5, PSTAT 10).
+**Prerequisites:** PSTAT 120A, Math 4A, and knowledge of Python (at a minimum equivalent of CS 8, INT5, PSTAT 10).
 
 **Catalog description:** Overview and use of data science tools in Python for data retrieval, analysis, visualization, reproducible research and automated report generation. Case studies will illustrate practical use of these tools.  This new course will focus on concepts that are relevant for data science by using some of the popular software tools in this area. Doing data science is more than using isolated methods. Creatively using a collection of concepts and domain knowledge is emphasized to clean, transform, analyze, and present data. Concepts in data ethics and privacy will also be discussed. Case studies will illustrate real usage scenarios.
 
@@ -35,7 +35,7 @@ We are looking for self-motivated students with diverse interests in the data sc
 
 ### Enrollment for this course will be limited, and add-codes will be given only after reviewing students' applications.
 
-**Apply to enroll in the course**: TBA
+**[Apply to enroll in the course](https://ucsb.co1.qualtrics.com/jfe/form/SV_73AZpoeQctgsLI1)**
 
 **Application process: Please complete the following form by March 1, 2020.**
 
@@ -45,3 +45,6 @@ Because admission to the course is contingent on various factors, including the 
 **How is this course different that PSTAT 134?**
 
 This is experimental course that will be less advanced than the content in PSTAT 134.  An emphasis will be placed on learning from each other: unlike 134, this course will be co-taught by professors from CS and PSTAT.  If you have already taken PSTAT 134 or any PSTAT courses beyond 120A, this course will be too remedial for you.
+
+
+Link to this page: <https://ucsb-ds.github.io/s20>
