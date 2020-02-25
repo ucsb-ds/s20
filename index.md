@@ -39,6 +39,7 @@ We are looking for self-motivated students with diverse interests in data scienc
 
 **Application process: Please complete the following form by March 1, 2020.**
 
+**This course counts as an upper division elective for PSTAT majors**
 
 Because admission to the course is contingent on various factors, including the number of applications, each undergraduate applicant should enroll in a "back-up" course that can be dropped if admitted to this course (which you would still be happy to take if you haven't been admitted).
 
