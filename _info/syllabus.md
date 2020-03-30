@@ -30,6 +30,14 @@ With that in mind, we are very excited to share this course with you. We want yo
 
 # COURSE INFORMATION <a name="course-info"></a>
 
+* **Instructors**: Alex Franks and Yekaterina Kharitonova (Prof. K)
+* **Lecture**: Tuesday and Thursday, 11:00am-12:15pm, Zoom []()
+* **Lab / Discussion Sections**:
+  * Wednesday, 1-1:50
+  * Wednesday, 2-2:50
+  * Wednesday, 3-3:50
+* **Office Hours** TBD
+
 ## Prerequisites: <a name="prerequisites"></a>
 PSTAT 120A, CS 9 or CS 16, and Math 4a.  All prerequisites with letter grade C or better.  PSTAT 120B can be taken concurrently.
 
@@ -49,13 +57,6 @@ This course is primarily designed for students who are interested in data scienc
 - Uncertainty quantification via simulation
 - Optimization
 - Data ethics and privacy
-
-* **Instructors**: Alex Franks and Yekaterina Kharitonova (Prof. K)
-* **Lecture**: Tuesday and Thursday, 11:00am-12:15pm, Zoom []()
-* **Lab / Discussion Sections**:
-  * Wednesday, 1-1:50
-  * Wednesday, 2-2:50
-  * Wednesday, 3-3:50
 
 ## Textbook
 A useful python reference text is an online book called  [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -83,9 +84,7 @@ Your mastery of class material will be assessed in the following ways, and final
 It is certainly possible for all students to receive high grades in this course if all of you show mastery of the homework and lab material.
 
 ## Participation <a name="participation"></a>
-Lecture attendance is optional but is *highly* encouraged. You are adults and are responsible for your learning. I expect you to come to all classes, since this is an essential part of your education. This is also your time to engage with the material and ask your questions.
-
-During class, you will work alone and in groups to work through problems and answer questions. On some days, the groups will be asked to turn in their in-class work. If you were absent, you miss the opportunity for the points on that in-class assignment. Period.
+Lecture attendance is optional but is *highly* encouraged. You are adults and are responsible for your learning. However, everybody benefits when there is more participation and engagement with the material during lab and lecture.
 
 The participation portion of your grade will also include providing good answers on Piazza and engaging with the various activities that the instructor will provide throughout the quarter.
 
