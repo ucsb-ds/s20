@@ -27,18 +27,18 @@ Below are the links to different sections of the syllabus:
 This is a very stressful and unusual time for all of us.  We recognize that many of you are sheltering in different parts of the world. First and foremost over the next couple of months, make sure you take care of yourselves and your families.  
 With that in mind, we are very excited to share this course with you. We want you to learn and have a great time in the process. Let this class be an escape from some of the uncertainty in the rest of the world.  Welcome to Data Science Principles & Techniques!
 
-# COURSE INFORMATION
+# COURSE INFORMATION <a name="course-info"></a>
 
-## Prerequisites: 
+## Prerequisites: <a name="prerequisites"></a>
 PSTAT 120A, CS 9 or CS 16, and Math 4a.  All prerequisites with letter grade C or better.  PSTAT 120B can be taken concurrently.
 
-## Course Description:
+## Course Description: <a name="course-description"></a>
 Overview of data science key concepts and the use of tools for data retrieval, analysis, visualization and, reproducible research with Python. Topics include an introduction to testing and uncertainty quantification via simulation, an introduction to regression, principles of measurement, missing data, and concepts in data ethics and privacy. Case studies will illustrate the importance of domain knowledge.  
  
 This course is primarily designed for students who are interested in data science and are majoring in Statistical Science (BS, BA), Actuarial Science (BS), Financial Mathematics and Statistics (BS), CCS Computing (BS), or Computer Science (BS). It is also suitable for students aiming for a Minor in Statistics.  It serves as a complement to PSTAT 120B and a gateway to more advanced data science material. 
 
 
-## Topics:
+## Topics:<a name="topics"></a>
 - Data formats, types, and data cleaning
 - Data structures and necessary operations on them (e.g., Pandas, dataframes vs. series, functions)
 - Principles of effective visualizations
@@ -71,7 +71,7 @@ You are not alone in this course; the mentors (staff and the instructors) are he
 
 We will be using Zoom to hold office hours and lab hours.  
 
-# ASSESSMENTS AND GRADES
+# ASSESSMENTS AND GRADES<a name="grades"></a>
 Your mastery of class material will be assessed in the following ways, and final grades will be computed as follows:
 *	5% Class Participation
 *	50% Homework Assignments
@@ -128,11 +128,6 @@ If you do so, you may be subject to student conduct proceedings under the UC San
 
 Similarly, you own the copyright in your original papers and exam essays. If I am interested in posting your answers or papers on the course web site, I will ask for your written permission.
 
-
-
-# COURSE INFORMATION <a name="course-info"></a>
-
-* 
 
 ## Disclaimer
 
