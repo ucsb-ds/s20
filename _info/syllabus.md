@@ -94,7 +94,8 @@ Data science is about analyzing real-world data sets, and so a series of project
 Weekly homework assignments are a required part of the course. Each student must submit each homework independently, but you are allowed to discuss problems with other students without directly sharing the answers. Make a serious attempt at the assignment yourself, and then discuss your doubts with others. In this way you, and they, will get more out of the discussion. Please write up your answers in your own words and don't share your completed work. *You are never allowed to directly copy and paste somebody else's code*.
 
 ## Labs
-Weekly labs are a required part of the course and should be submitted during your lab session. To receive credit, you must attend lab, work on the lab assignment until you're finished or the lab period is over, and get checked off by a TA. Labs will be released on Tuesday night. If you cannot attend lab physically, you may complete a lab assignment remotely, but you must complete it by Friday at 5pm to receive credit. Note that if you attend lab, you can still get credit even if you don't finish all of the lab problems. However, if you choose to work remotely, you must finish the entire lab to receive credit. Each person must submit each lab independently, but you are welcome to collaborate with other students in your lab room.
+
+Weekly labs are a required part of the course. To receive credit, we encourage you to work on the lab assignment during th eassigned time until you're finished or the lab period is over. Labs will be released on Tuesday night. If you cannot attend lab physically, you may complete a lab assignment remotely, but you must complete it by Friday at 5pm to receive credits. Each person must submit each lab independently, but you are encouraged to collaborate with other students during lab time via chat.
 
 ## Exams
 There will be no exams in this course.  
@@ -118,7 +119,7 @@ Penalties for cheating are severe — they range from a zero grade for the assig
 Rather than copying someone else's work, ask for help. You are not alone in this course! We are here to help you succeed. If you invest the time to learn the material and complete the projects, you won't need to copy any answers.
 
 
-## Copyright of Course Materials
+## Copyright of Course Materials <a name="copyright"></a>
 
 My lectures and course materials, including PowerPoint presentations, tests, outlines, and similar materials, are protected by U.S. copyright law and by University policy. I am the exclusive owner of the copyright in those materials I create. You may take notes and make copies of course materials for your own use. You may also share those materials with another student who is enrolled in or auditing this course.
 
