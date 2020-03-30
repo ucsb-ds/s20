@@ -17,11 +17,12 @@ Below are the links to different sections of the syllabus:
    * [Course Description](#course-description)
    * [Required Resources](#resources)
    * [Topics](#topics)
-* [ASSESSMENTS AND GRADES](#grades)
+* [Assessments and grades](#grades)
     * [Homework](#hwk)
     * [Participation](#participation)
     * [Labs](#labs)
     * [Late Submission](#late-policy)
+    
 
 ## An Opening Thought
 This is a very stressful and unusual time for all of us.  We recognize that many of you are sheltering in different parts of the world. First and foremost over the next couple of months, make sure you take care of yourselves and your families.  
@@ -80,14 +81,14 @@ Your mastery of class material will be assessed in the following ways, and final
 
 It is certainly possible for all students to receive high grades in this course if all of you show mastery of the homework and lab material.
 
-## Participation
+## Participation <a name="participation"></a>
 Lecture attendance is optional but is *highly* encouraged. You are adults and are responsible for your learning. I expect you to come to all classes, since this is an essential part of your education. This is also your time to engage with the material and ask your questions.
 
 During class, you will work alone and in groups to work through problems and answer questions. On some days, the groups will be asked to turn in their in-class work. If you were absent, you miss the opportunity for the points on that in-class assignment. Period.
 
 The participation portion of your grade will also include providing good answers on Piazza and engaging with the various activities that the instructor will provide throughout the quarter.
 
-## Assignments
+## Assignments <a name="hwk"></a>
 Data science is about analyzing real-world data sets, and so a series of projects involving real data are a required part of the course. You may work with one partner, and we strongly recommend that you find a partner in your lab section.
 
 Weekly homework assignments are a required part of the course. Each student must submit each homework independently, but you are allowed to discuss problems with other students without directly sharing the answers. Make a serious attempt at the assignment yourself, and then discuss your doubts with others. In this way you, and they, will get more out of the discussion. Please write up your answers in your own words and don't share your completed work. *You are never allowed to directly copy and paste somebody else's code*.
@@ -98,8 +99,7 @@ Weekly labs are a required part of the course and should be submitted during you
 ## Exams
 There will be no exams in this course.  
 
-## Late Policy
-
+## Late Policy<a name="late-policy"></a>
 
 Homework will be accepted up to 2 days (48 hours) late; a homework submitted less than 24 hours after the deadline will receive 3/4 credit, a homework submitted between 24 and 48 hours after the deadline will receive 1/2 credit, and a homework submitted 48 hours or more after the deadline will receive no credit.
 
