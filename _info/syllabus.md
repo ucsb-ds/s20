@@ -22,7 +22,9 @@ Below are the links to different sections of the syllabus:
     * [Participation](#participation)
     * [Labs](#labs)
     * [Late Submission](#late-policy)
-* [Note on class material and recordings](#copyright)
+* [Remote Instruction](#remote)
+    *[Slides and Lecture Recordings](#recordings)
+    *[Copyrights](#copyright)
     
 
 ## An Opening Thought
@@ -119,6 +121,9 @@ Penalties for cheating are severe — they range from a zero grade for the assig
 
 Rather than copying someone else's work, ask for help. You are not alone in this course! We are here to help you succeed. If you invest the time to learn the material and complete the projects, you won't need to copy any answers.
 
+## Slides and Recordings <a name="copyright"></a>
+
+All lecture material including slides will be posted on the website after class.  Recordings of the lectures will also be posted.  
 
 ## Copyright of Course Materials <a name="copyright"></a>
 
