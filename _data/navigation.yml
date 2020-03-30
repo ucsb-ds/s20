@@ -1,0 +1,58 @@
+# the production_url is the url that the parent/child site have in common
+#  e.g. production_url: https://ucsb-cs24.github.io
+#  for main site http://ucsb-cs24.github.io
+#  and child sites
+#    https://ucsb-cs24.github.io/w18
+#    https://ucsb-cs24.github.io/f18
+#    https://ucsb-cs24.github.io/s19
+#    etc.
+
+production_url: https://ucsb-ds.github.io
+
+# List the title and url for each item on navigation bar.
+# For items that should be relative urls, put the baseurl of the site
+# they come from, / for main site, and /f18, /s19, etc for child sites.
+
+home:
+   title: UCSB DS100
+   url: /
+   baseurl: /
+
+offerings:
+   title: <b>S20</b>
+   url: /	
+   baseurl: /s20
+   items:
+      - title: S20
+        url: /
+        baseurl: /s20
+
+offering_links:
+  - title: Syllabus
+    url: /info/syllabus/
+    description: "University and course policies"    
+  - title: Calendar
+    url: /info/calendar/
+    description: "Assignment Calendar"
+  - title: Assignments
+    url: /work_list/
+    description: "Homework and Lab Assignments"
+  - title: Lectures
+    url: /lec_list/
+    description: "Lecture-related information"
+  - title: Staff + Office Hours
+    dropdown:
+    url: /info/staff/
+    description: "Staff information + Office Hours"
+
+  - title: Links
+    dropdown:	 
+       - title: Gauchospace
+         url: https://gauchospace.ucsb.edu
+         description: "Overall Grade Information"
+       - title: GradeScope
+         url: https://gradescope.com
+         description: "HW and Lab Grades"
+       - title: Piazza
+         url: https://piazza.com
+         description: "Q&A Forum"

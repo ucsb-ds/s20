@@ -1,0 +1,9 @@
+<table id="hwk_table" class="asn_table">
+{% include asn_table_header_row.html %}
+{% for asn in site.hwk %}
+  {% if asn.layout != 'handout'  %}
+    {% include asn_table_row.html %}
+  {% endif %}
+{% endfor %}
+</table>
+

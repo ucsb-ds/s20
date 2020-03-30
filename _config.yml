@@ -7,11 +7,27 @@ remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 url: https://ucsb-ds.github.io # the base hostname & protocol for your site
 baseurl: "/s20"  # the subpath of your site "/" for main, "/w19" for instance
 
-title: "UCSB DS2"
-course: "DS2"
+title: "UCSB DS100"
+course: "DS100"
 github_url: https://github.com/ucsb-ds/s20
+qtr: "S20"
+quarter: "Spring 2020"
 
 suppress_footer: true # hide the footer
+
+start_week: 1
+start_date: 2020-03-29 00:00:00.00-8:00 # Has to start on a Sunday
+num_weeks: 10
+extra_exam_week: true
+lecture_days_of_week: TR
+
+cal_dates: >                                                                    
+  [                                                                            
+    {"label":"S20 begins", "date":"2020-03-30" },              
+    {"label":"Classes end", "date":"2020-06-05" },              
+    {"label":"S20 qtr ends", "date":"2020-06-12" }                              
+  ] 
+
 
 kramdown:
   parse_block_html: false
@@ -23,44 +39,72 @@ include:
 timezone: America/Los_Angeles
 
 collections:
-  tutorials:
+  hwk:
     output: true
-    permalink: /tutorials/:path/
-
-  topics:
+    permalink: /hwk/:path/
+    last_before: false
+  lab:
     output: true
-    permalink: /topics/:path/
-  textbooks:
+    permalink: /lab/:path/
+    last_before: false
+  exam:
     output: true
-    permalink: /textbooks/:path/
-  resources:
+    permalink: /exam/:path/
+  info:
     output: true
-    permalink: /resources/:path/
-
+    permalink: /info/:path/
+  lectures:
+    output: true
+    permalink: /lectures/:path/
+  bios:
+    output: true
+    permalink: /bios/:path
 
 defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: default
-    values:
       layout: default
-  - scope:
+  -
+    scope:
       path: ""
-      type: resources
+      type: hwk
     values:
-      layout: default
-  - scope:
+      layout: hwk
+  -
+    scope:
       path: ""
-      type: instructor
+      type: lab
     values:
-      layout: default
-  - scope:
+      layout: lab
+  -
+    scope:
       path: ""
-      type: default
+      type: exam
     values:
-layout: default
+      layout: exam_info
+  -
+    scope:
+      path: ""
+      type: info
+    values:
+      layout: info
+  -
+    scope:
+      path: ""
+      type: lectures
+    values:
+      layout: lecture
+  -
+    scope:
+      path: "syllabus.md"
+      type: info
+    values:
+      layout: handout
+  -
+    scope:
+     path: ""
+     type: bios
+    values:
+     layout: default #bio

@@ -1,0 +1,27 @@
+    
+{%- if link.url contains '://' -%}
+  {%- assign url = link.url -%}
+{%- else -%}
+  {%- if site.baseurl == baseurl -%}
+    {%- assign url = link.url | relative_url -%}
+  {%- else -%}
+    {%- capture url -%}{{production_url}}{{baseurl}}{{link.url}}{%- endcapture -%}
+  {%- endif -%}
+{%- endif -%}
+
+{%- if url contains "https://github.com" -%}
+ {%- assign logo = "<i class='fab fa-github' aria-hidden='true'></i>&nbsp;" -%}
+{%- if link.description contains "Calendar" or link.description contains "calendar" -%}
+ {%- assign logo = "<i class='fa fa-calendar' aria-hidden='true'></i>&nbsp;" -%}
+{%- if link.description contains "Assignments" -%}
+ {%- assign logo = "<i class='fa fa-book' aria-hidden='true'></i>&nbsp;" -%}
+{%- if link.description contains "Lectures" -%}
+ {%- assign logo = "<i class='fa fa-bookmark' aria-hidden='true'></i>&nbsp;" -%}
+{%- else -%}
+  {%- assign logo = "" -%}
+{%- endif -%}
+
+<a class="{{include.class}}" href="{{ url }}"
+   {%- if link.description -%} title="{{ link.description }}" {%- endif -%}
+   data-term="{{include.data-term}}" >{{logo}}{{ link.title }}</a>
+

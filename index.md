@@ -5,13 +5,39 @@ title: Spring 2020: UCSB Data Science Applications and Analysis
 # Spring 2020: UCSB (CS 190D / PSTAT 195) Data Science Applications and Analysis
 
 
+
+{% include collapse-button.html label="Information" id="info-list" %}
+<div class="collapse" id="info-list">
+ <div class="card card-body">
+  {% include info_list.html %}
+ </div>
+</div>
+
+
+{% include collapse-button.html label="Lecture Notes and Slides" id="lectures" %}
+<div class="collapse" id="lectures">
+ <div class="card card-body" markdown="1">
+   {%include lecnot_table.html %}
+ </div>
+</div>
+
+
+{% include collapse-button.html label="Homework" id="hwk" %}
+<div class="collapse" id="hwk">
+ <div class="card card-body">
+  {% include hwk_table.html %}
+ </div>
+</div>
+
+{% include collapse-button.html label="Lab" id="lab" %}
+<div class="collapse" id="lab">
+ <div class="card card-body">
+  {% include lab_table.html %}
+ </div>
+</div>
+
 In this course, we will explore the data science lifecycle: question formulation, data collection & cleaning, exploratory data analysis & visualization, statistical inference and prediction, and decision-making.
 
-<br/>
-
-This site is currently under construction and will be updated with more information soon.
-
-<br/>
 
 **Instructors:** Professors Kate Kharitonova (CS) and Alex Franks (PSTAT)
 
@@ -31,17 +57,6 @@ This site is currently under construction and will be updated with more informat
 
 Learning by doing will require software documentation, experimenting by trial-and-error, and lots of debugging. 
 We are looking for self-motivated students with diverse interests in data science.
-
-
-### Enrollment for this course will be limited, and add-codes will be given only after reviewing students' applications.
-
-**[Apply to enroll in the course](https://ucsb.co1.qualtrics.com/jfe/form/SV_73AZpoeQctgsLI1)**
-
-**Application process: Please complete the following form by March 1, 2020.**
-
-**This course counts as an upper division elective for PSTAT majors**
-
-Because admission to the course is contingent on various factors, including the number of applications, each undergraduate applicant should enroll in a "back-up" course that can be dropped if admitted to this course (which you would still be happy to take if you haven't been admitted).
 
 **Where does this data science course fit in with the existing courses?**
 
