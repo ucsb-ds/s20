@@ -22,6 +22,7 @@ Below are the links to different sections of the syllabus:
     * [Participation](#participation)
     * [Labs](#labs)
     * [Late Submission](#late-policy)
+* [Note on class material and recordings](#copyright)
     
 
 ## An Opening Thought
