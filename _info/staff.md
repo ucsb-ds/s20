@@ -41,16 +41,16 @@ iframe { width: 75%; height: 950px; overflow: scroll; }
 
 </table>
 
-<!--
+
 <table style="width:90%">
 <tr>
   <td>
-  <img src="/s20/info/mentorPhotos/404.gif"  width="300px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
-  <h3>(TA/Tutor)</h3>
-    Pronouns: <br/>
-    Major: <br/>
-    Previous experience as a tutor: <br/>
+  <img src="/s20/info/mentorPhotos/sergio.png"  width="300px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
+  <h3>Course Tutor: Sergio Zambrano</h3>
+    Pronouns: He, Him, His <br/>
+    Major: Statistics And Data Science<br/>
+    Previous experience as a tutor: INT5 (Data Science I)<br/>
   </td>
 </tr>
 </table> 
--->
+
