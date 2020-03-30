@@ -38,11 +38,6 @@ iframe { width: 75%; height: 950px; overflow: scroll; }
   <i>"Hi everyone! I love Data Science for its ability to bring together many disciplines to uncover insights from data. I am looking forward to sharing with you this unusual quarter and an exciting journey into the hands-on world of Data Science."</i><br/>
   </td>
 </tr>
-
-</table>
-
-
-<table style="width:90%">
 <tr>
   <td>
   <img src="/s20/info/mentorPhotos/sergio.png"  width="300px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
@@ -50,7 +45,14 @@ iframe { width: 75%; height: 950px; overflow: scroll; }
     Pronouns: He, Him, His <br/>
     Major: Statistics And Data Science<br/>
     Previous experience as a tutor: INT5 (Data Science I)<br/>
+    <i>"Hello! I am excited to be a tutor for this course. This is my first time tutoring remotely, but I will try my best
+      to adapt. Looking forward to working with you all."</i><br/>
   </td>
 </tr>
-</table> 
+
+</table>
+
+
+
+
 
