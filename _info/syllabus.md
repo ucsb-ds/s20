@@ -16,7 +16,7 @@ Below are the links to different sections of the syllabus:
    * [Prerequisites](#prerequisites)
    * [Course Description](#course-description)
    * [Required Resources](#resources)
-   * [Topics](#topics)
+   * [Course Topics](#topics)
 * [Assessments and grades](#grades)
     * [Homework](#hwk)
     * [Participation](#participation)
@@ -39,7 +39,7 @@ Overview of data science key concepts and the use of tools for data retrieval, a
 This course is primarily designed for students who are interested in data science and are majoring in Statistical Science (BS, BA), Actuarial Science (BS), Financial Mathematics and Statistics (BS), CCS Computing (BS), or Computer Science (BS). It is also suitable for students aiming for a Minor in Statistics.  It serves as a complement to PSTAT 120B and a gateway to more advanced data science material. 
 
 
-## Topics:<a name="topics"></a>
+## Course Topics:<a name="topics"></a>
 - Data formats, types, and data cleaning
 - Data structures and necessary operations on them (e.g., Pandas, dataframes vs. series, functions)
 - Principles of effective visualizations
@@ -47,6 +47,7 @@ This course is primarily designed for students who are interested in data scienc
 - Missing data and measurement
 - Introduction to regression
 - Uncertainty quantification via simulation
+- Optimization
 - Data ethics and privacy
 
 * **Instructors**: Alex Franks and Yekaterina Kharitonova (Prof. K)
