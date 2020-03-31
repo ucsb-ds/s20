@@ -49,8 +49,6 @@ In this course, we will explore the data science lifecycle: question formulation
 
 **Software tools:** Many software tools are used for data science. Tools we will use for this course include (but not limited to)
 - Python
-- Source code version control (git/github)
-- Command line tools (bash)
 - Statistical/machine learning libraries
 - Jupyter Notebook software for reproducibility
 - Interactive visualization in the web browser.
