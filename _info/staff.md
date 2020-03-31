@@ -38,6 +38,7 @@ iframe { width: 75%; height: 950px; overflow: scroll; }
   <i>"Hi everyone! I love Data Science for its ability to bring together many disciplines to uncover insights from data. I am looking forward to sharing with you this unusual quarter and an exciting journey into the hands-on world of Data Science."</i><br/>
   </td>
 </tr>
+
   
  <tr>
   <td>
@@ -46,7 +47,15 @@ iframe { width: 75%; height: 950px; overflow: scroll; }
     Pronouns: he, him, his<br/>
     Second year Computer Science student<br/>
     <i>"Hey all! I'm Arthur, and I am a second year Computer Science student and a CS ULA (Undergraduate Learning Assistant). This is my fifth time tutoring, but first time tutoring such a special course like this one! It's new for everyone, and we are all in this together! I look forward to meeting you all soon, come to my office hours, and I will do my best to help."     </i><br/>
-  </td>
+
+<tr>
+  <td>
+  <img src="/s20/info/mentorPhotos/404.gif"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
+  <h3> Course tutor: Natalie Rozak</h3>
+  Pronouns: She, Her, Hers<br/>
+  Senior majoring in Statistics and Data Science<br/>
+  <i>"Hi, DS 100 students! Feel free to ask me any question related to this course, majoring in data science, or searching for a job. It's going to be a great quarter working with all of you!"</i><br/>
+</td>
 </tr>
 
 </table>

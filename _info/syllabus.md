@@ -11,20 +11,19 @@ You must contact the instructor for clarification if you receive information fro
 
 Below are the links to different sections of the syllabus:
 
-
 * [Course Information](#course-information)
    * [Prerequisites](#prerequisites)
    * [Course Description](#course-description)
    * [Required Resources](#resources)
    * [Course Topics](#topics)
 * [Assessments and grades](#grades)
-    * [Homework](#hwk)
-    * [Participation](#participation)
-    * [Labs](#labs)
-    * [Late Submission](#late-policy)
+   * [Homework](#hwk)
+   * [Participation](#participation)
+   * [Labs](#labs)
+   * [Late Submission](#late-policy)
 * [Remote Instruction](#remote)
-    *[Slides and Lecture Recordings](#recordings)
-    *[Copyrights](#copyright)
+   * [Slides and Lecture Recordings](#recordings)
+   * [Copyrights](#copyright)
     
 
 ## An Opening Thought
@@ -121,7 +120,7 @@ Penalties for cheating are severe — they range from a zero grade for the assig
 
 Rather than copying someone else's work, ask for help. You are not alone in this course! We are here to help you succeed. If you invest the time to learn the material and complete the projects, you won't need to copy any answers.
 
-## Slides and Recordings <a name="copyright"></a>
+## Slides and Recordings <a name="recordings"></a>
 
 All lecture material including slides will be posted on the website after class.  Recordings of the lectures will also be posted.  
 
