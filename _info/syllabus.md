@@ -11,20 +11,19 @@ You must contact the instructor for clarification if you receive information fro
 
 Below are the links to different sections of the syllabus:
 
-
 * [Course Information](#course-information)
    * [Prerequisites](#prerequisites)
    * [Course Description](#course-description)
    * [Required Resources](#resources)
    * [Course Topics](#topics)
 * [Assessments and grades](#grades)
-    * [Homework](#hwk)
-    * [Participation](#participation)
-    * [Labs](#labs)
-    * [Late Submission](#late-policy)
+   * [Homework](#hwk)
+   * [Participation](#participation)
+   * [Labs](#labs)
+   * [Late Submission](#late-policy)
 * [Remote Instruction](#remote)
-    *[Slides and Lecture Recordings](#recordings)
-    *[Copyrights](#copyright)
+   *[Slides and Lecture Recordings](#recordings)
+   *[Copyrights](#copyright)
     
 
 ## An Opening Thought
