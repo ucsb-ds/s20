@@ -65,6 +65,15 @@ iframe { width: 75%; height: 950px; overflow: scroll; }
   <i>"Hi, DS 100 students! Feel free to ask me any question related to this course, majoring in data science, or searching for a job. It's going to be a great quarter working with all of you!"</i><br/>
 </td>
 </tr>
+<tr>
+  <td>
+  <img src="/s20/info/mentorPhotos/sergio.png"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
+  <h3> Course tutor: Sergio Zambrano</h3>
+  Pronouns: He, Him, His<br/>
+  Major: Statistics and Data Science<br/>
+  <i>"Hello! This is my second time tutoring (Data Science 1) but my first time remotely tutoring. I will try my best to adapt and help you all in this course. "</i><br/>
+</td>
+</tr>
 
 </table>
 
