@@ -38,7 +38,15 @@ iframe { width: 75%; height: 950px; overflow: scroll; }
   <i>"Hi everyone! I love Data Science for its ability to bring together many disciplines to uncover insights from data. I am looking forward to sharing with you this unusual quarter and an exciting journey into the hands-on world of Data Science."</i><br/>
   </td>
 </tr>
-
+<tr>
+  <td>
+  <img src="/s20/info/mentorPhotos/404.gif"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
+  <h3> Course TA: Brian Lim</h3>
+  Pronouns: He, Him, His<br/>
+  BS/MS Student in Computer Science<br/>
+  <i>"Hi everyone! I'm Brian, who some of you may recognize as the president of Data Science UCSB. I look forward to being your TA and helping you all through this relatively new course."</i><br/>
+  </td>
+</tr>
   
  <tr>
   <td>
