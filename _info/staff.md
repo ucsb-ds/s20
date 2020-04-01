@@ -10,7 +10,7 @@ ready: true
 * "Open" labs refer to times that you can get help from TAs and tutors outside of your scheduled labs.  Please check the detailed schedule below:
 
 <style>
-iframe { width: 75%; height: 950px; overflow: scroll; }  
+iframe { width: 75%; height: 1250px; overflow: scroll; }  
 </style>
 
 <iframe src="https://docs.google.com/spreadsheets/d/1EuybMwgXesJOQEvAnXnadYRPNHA_mLcbABf4EMmltXQ/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe>
