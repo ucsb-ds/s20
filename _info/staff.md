@@ -59,6 +59,16 @@ iframe { width: 75%; height: 1250px; overflow: scroll; }
 <tr>
   <td>
   <img src="/s20/info/mentorPhotos/404.gif"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
+  <h3> Course TA: Franky Meng</h3>
+  Pronouns: He, Him, His<br/>
+  PhD Student in Statistics<br/>
+  <i>"Nice to see you here in DS100! I am glad to discuss and explore modern data science with you throughout the quarter. It would be a fun and fruitful journey! Feel free to ask questions during the section and office hours!"</i><br/>
+  </td>
+</tr>
+
+<tr>
+  <td>
+  <img src="/s20/info/mentorPhotos/404.gif"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
   <h3> Course tutor: Natalie Rozak</h3>
   Pronouns: She, Her, Hers<br/>
   Senior majoring in Statistics and Data Science<br/>
