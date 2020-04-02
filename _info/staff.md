@@ -26,7 +26,7 @@ iframe { width: 75%; height: 1250px; overflow: scroll; }
   <h3> Course instructor: Alexander Franks</h3>
   Pronouns: He, Him, His<br/>
   Professor in Probability and Statistics<br/>
-  <i>"Hi everyone!"</i><br/>
+  <i>"Hi everyone! This is my third year as a proefssor at UCSB. I teach many of the data science courses on campus, including PSTAT 115 (Bayesian Data Analysis) and PSTAT 131 (Statistical Machine Learning). I'm really excited about working with you throughout this new course!"</i><br/>
   </td>
 </tr>
 <tr>
