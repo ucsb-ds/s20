@@ -22,7 +22,7 @@ iframe { width: 75%; height: 1250px; overflow: scroll; }
 <table style="width:80%">
 <tr>
   <td>
-  <img src="/s20/info/mentorPhotos/404.gif"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
+  <img src="/s20/info/mentorPhotos/franks.jpg"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
   <h3> Course instructor: Alexander Franks</h3>
   Pronouns: He, Him, His<br/>
   Professor in Probability and Statistics<br/>
