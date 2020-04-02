@@ -55,6 +55,16 @@ iframe { width: 75%; height: 1250px; overflow: scroll; }
     Pronouns: he, him, his<br/>
     Second year Computer Science student<br/>
     <i>"Hey all! I'm Arthur, and I am a second year Computer Science student and a CS ULA (Undergraduate Learning Assistant). This is my fifth time tutoring, but first time tutoring such a special course like this one! It's new for everyone, and we are all in this together! I look forward to meeting you all soon, come to my office hours, and I will do my best to help."     </i><br/>
+    
+<tr>
+  <td>
+  <img src="/s20/info/mentorPhotos/404.gif"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
+  <h3> Course TA: Franky Meng</h3>
+  Pronouns: He, Him, His<br/>
+  PhD Student in Statistics<br/>
+  <i>"Nice to see you here! This is Franky and I am glad to discuss modern data science with you all throughout this quarter. It would be a fun and fruitful journey!"</i><br/>
+  </td>
+</tr>
 
 <tr>
   <td>
