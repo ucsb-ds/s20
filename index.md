@@ -9,7 +9,7 @@ title: Spring 2020: UCSB Data Science Applications and Analysis
 - [Sync content to ds100.lsit](https://bit.ly/39xJf79)
 - [Piazza](https://piazza.com/class/k7l3jegotl95vg)
 - [Zoom link for Lecture](https://ucsb.zoom.us/j/491434623?pwd=YlVmZXJpTlhkcDNWcmlwb1EvbjFpQT09)
-- []
+- [Zoom link for lab and office hours](https://ucsb.zoom.us/j/377571101?pwd=Wm9nWHBpSzgwUkxPaEdzV2RBZEJ6QT09)
 
 
 
