@@ -6,7 +6,7 @@ title: Spring 2020: UCSB Data Science Applications and Analysis
 
 ## Important course links:
 
-- [Sync content to ds100.lsit](https://bit.ly/39xJf79)
+- [Sync content to ds100.lsit.ucsb.edu](https://bit.ly/39xJf79)
 - [Piazza](https://piazza.com/class/k7l3jegotl95vg)
 - [Zoom link for lecture](https://ucsb.zoom.us/j/491434623?pwd=YlVmZXJpTlhkcDNWcmlwb1EvbjFpQT09)
 - [Zoom link for lab and office hours](https://ucsb.zoom.us/j/377571101?pwd=Wm9nWHBpSzgwUkxPaEdzV2RBZEJ6QT09)
