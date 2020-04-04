@@ -2,7 +2,7 @@
 title: Spring 2020: UCSB Data Science Applications and Analysis
 ---
 
-# Spring 2020: UCSB (CS 190D / PSTAT 195) Data Science Applications and Analysis
+# Data Science Applications and Analysis (UCSB, S20)
 
 ## Important course links:
 
