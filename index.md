@@ -13,6 +13,7 @@ title: Spring 2020: UCSB Data Science Applications and Analysis
 - [Office hours schedule](https://ucsb-ds.github.io/s20/info/staff/)
 - [Lecture slides](https://drive.google.com/drive/folders/1dSAdI3imEdiIFkzM6rpylAn2s8us-HVC?usp=sharing)
 - [Lecture recordings](https://drive.google.com/open?id=1xAoYPB8C2FgE34G2fc6ktjlBJykmmxW8)
+- [Gradescope](https://www.gradescope.com/courses/87200)
 
 --------------------------------------------------------------------------
 
