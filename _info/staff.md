@@ -85,7 +85,16 @@ iframe { width: 75%; height: 1250px; overflow: scroll; }
   <i>"Hello! This is my second time tutoring (Data Science 1) but my first time remotely tutoring. I will try my best to adapt and help you all in this course. "</i><br/>
 </td>
 </tr>
-
+<tr>
+  <td>
+  <img src="/s20/info/mentorPhotos/404.gif"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
+  <h3> Course tutor: Anya Yang</h3>
+  Pronouns: She, Her, Hers<br/>
+  Year: 3rd
+  Major: Statistics and Data Science<br/>
+  <i>"Hi everyone! Feel free to reach out to me with any questions you may have relating to coursework, majoring in data science, or working in industry. I look forward to getting to know everyone!"</i><br/>
+</td>
+</tr>
 </table>
 
 <!--
