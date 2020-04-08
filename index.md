@@ -2,9 +2,20 @@
 title: Spring 2020: UCSB Data Science Applications and Analysis
 ---
 
-# Spring 2020: UCSB (CS 190D / PSTAT 195) Data Science Applications and Analysis
+# Data Science Applications and Analysis (UCSB, S20)
 
+## Important course links:
 
+- [Sync content to ds100.lsit.ucsb.edu](https://bit.ly/39xJf79)
+- [Piazza](https://piazza.com/class/k7l3jegotl95vg)
+- [Zoom link for lecture](https://ucsb.zoom.us/j/491434623?pwd=YlVmZXJpTlhkcDNWcmlwb1EvbjFpQT09)
+- [Zoom link for lab and office hours](https://ucsb.zoom.us/j/377571101?pwd=Wm9nWHBpSzgwUkxPaEdzV2RBZEJ6QT09)
+- [Office hours schedule](https://ucsb-ds.github.io/s20/info/staff/)
+- [Lecture slides](https://drive.google.com/drive/folders/1dSAdI3imEdiIFkzM6rpylAn2s8us-HVC?usp=sharing)
+- [Lecture recordings](https://drive.google.com/open?id=1xAoYPB8C2FgE34G2fc6ktjlBJykmmxW8)
+- [Gradescope](https://www.gradescope.com/courses/87200)
+
+--------------------------------------------------------------------------
 
 {% include collapse-button.html label="Information" id="info-list" %}
 <div class="collapse" id="info-list">
