@@ -55,6 +55,8 @@ iframe { width: 75%; height: 1250px; overflow: scroll; }
     Pronouns: he, him, his<br/>
     Second year Computer Science student<br/>
     <i>"Hey all! I'm Arthur, and I am a second year Computer Science student and a CS ULA (Undergraduate Learning Assistant). This is my fifth time tutoring, but first time tutoring such a special course like this one! It's new for everyone, and we are all in this together! I look forward to meeting you all soon, come to my office hours, and I will do my best to help."     </i><br/>
+    </td>
+</tr>
     
     
 <tr>
