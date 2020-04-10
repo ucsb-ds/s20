@@ -61,7 +61,7 @@ iframe { width: 75%; height: 1250px; overflow: scroll; }
     
 <tr>
   <td>
-  <img src="/s20/info/mentorPhotos/franky.png”  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
+  <img src="/s20/info/mentorPhotos/franky.png"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
   <h3> Course TA: Franky Meng</h3>
   Pronouns: He, Him, His<br/>
   PhD Student in Statistics<br/>
@@ -71,7 +71,7 @@ iframe { width: 75%; height: 1250px; overflow: scroll; }
 
 <tr>
   <td>
-  <img src="/s20/info/mentorPhotos/404.gif"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
+  <img src="/s20/info/mentorPhotos/NatalieRozak.JPG"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
   <h3> Course tutor: Natalie Rozak</h3>
   Pronouns: She, Her, Hers<br/>
   Senior majoring in Statistics and Data Science<br/>
