@@ -40,7 +40,7 @@ iframe { width: 75%; height: 1250px; overflow: scroll; }
 </tr>
 <tr>
   <td>
-  <img src="/s20/info/mentorPhotos/404.gif"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
+  <img src="/s20/info/mentorPhotos/brianlim.png"  width="250px"  alt="" style="float: left; margin: 20px 10px 0px 0px;">
   <h3> Course TA: Brian Lim</h3>
   Pronouns: He, Him, His<br/>
   BS/MS Student in Computer Science<br/>
