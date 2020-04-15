@@ -211,9 +211,9 @@ estimate of the number of children a US woman bears in her lifetime in 2015?
 
 Bias up, Bias down, No impact
 
-<breakout> 42-45 min into the video
 
 ### Breakout discussion results
+42-45 min into the video
 
 * Multiple siblings on campus: their family might be represented multiple times
 * The survey doesn't account for Women with no children
@@ -235,8 +235,7 @@ Women with less education tend to have more children.
 How might this impact
 the class average?
 
-http://www.pewsocialtrends.org/2015/
-05/07/family-size-among-mothers/
+http://www.pewsocialtrends.org/2015/05/07/family-size-among-mothers/
 
 The data used in these analyses are
 designed to assess women’s fertility, and as such a “mother” is here defined as any
