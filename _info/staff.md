@@ -7,7 +7,7 @@ ready: true
 
 ## Lab and Office Hours
 * "Closed" labs refer to your sections that you are registered for on GOLD. These are 50 minute discussion sections on Wednesdays 1p, 2p, 3p.
-* "Open" labs refer to times that you can get help from TAs and tutors outside of your scheduled labs.  Please check the detailed schedule below:
+* "Open" labs refer to times that you can get help from TAs and tutors outside of your scheduled labs.  Please check the detailed schedule below. [Use this Zoom link for lab and office hours](https://ucsb.zoom.us/j/377571101?pwd=Wm9nWHBpSzgwUkxPaEdzV2RBZEJ6QT09).
 
 <style>
 iframe { width: 75%; height: 1250px; overflow: scroll; }  
